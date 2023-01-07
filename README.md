@@ -53,12 +53,12 @@ To run the code:
 ## Results:
 Accuracies of different CNN models:
 <p align="center">
-  <img src="Accuracy" width="600" >
+  <img src="Accuracy.png" width="600" >
 </p>
 <br/>
 Final Graph:
 <p align="center">
-  <img src="Graph" width="600" >
+  <img src="Graph.png" width="600" >
 </p>
 
 
