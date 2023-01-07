@@ -11,6 +11,8 @@ The objective of this project is to classify the yoga poses with the highest pos
 ### 2. Dataset :
 The dataset was created by us as there were no datasets available on internet.The dataset was created by downloading images from google. The dataset folder comprises 10 folders, 1 for each yoga pose. Each pose has approximately 250+ images extracted from Google.
 
+Download Dataset from here: https://drive.google.com/drive/folders/1YwT6rwaVyLiAhO5nTgA5MBDNbNxC-oY-?usp=sharing
+
 ### 3. Dependencies :
 - Python 3.6
 - keras `pip install keras`
