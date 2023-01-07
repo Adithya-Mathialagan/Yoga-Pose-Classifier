@@ -23,6 +23,12 @@ Download Dataset from here: https://drive.google.com/drive/folders/1YwT6rwaVyLiA
 Note that keras and tensorflow have their own dependencies. We recommend using [Anaconda](https://www.anaconda.com/) for handling the packages.
 
 ### 4. Models Implemented and Steps Followed :
+<br/>
+High Level Design:
+<p align="center">
+  <img src="High Level Design.png" width="600" >
+</p>
+<br/>
 The following models were implemented:
 1. Decision Tree Classifier, Random Forest Classifier, KNN.
 2. CNN Models:
