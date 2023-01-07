@@ -1,4 +1,4 @@
-# Pose & Posture Estimation(Yoga Asanas)
+# Pose & Posture Estimation (Yoga Asanas)
 
 ### 1. Problem Statement
 Yoga pose estimation is a deep-rooted problem in computer vision that has exposed many challenges in the past. Analyzing human activities is beneficial in many fields like video surveillance, biometrics, assisted living, at-home health monitoring etc.
@@ -59,12 +59,12 @@ To run the code:
 ## Results:
 Accuracies of different CNN models:
 <p align="center">
-  <img src="Accuracy.png" width="600" >
+  <img src="Accuracy.png" width="400" >
 </p>
 <br/>
 Final Graph:
 <p align="center">
-  <img src="Graph.png" width="600" >
+  <img src="Graph.png" width="400" >
 </p>
 
 
