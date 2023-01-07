@@ -50,6 +50,17 @@ To run the code:
 2. Download the dataset and store it with appropriate folder name.
 3. Run all the lines of code in the Jupyter Notebook using the 'Run' option or 'Ctrl + Shift'.
 
+## Results:
+Accuracies of different CNN models:
+<p align="center">
+  <img src="Accuracy" width="600" >
+</p>
+<br/>
+Final Graph:
+<p align="center">
+  <img src="Graph" width="600" >
+</p>
+
 
 
 
