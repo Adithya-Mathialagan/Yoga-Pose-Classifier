@@ -58,7 +58,7 @@ To run the code:
 
 ## Results:
 Accuracies of different CNN models:
-<p align="center">
+<p align="center" padding="10px">
   <img src="Accuracy.png" width="400" >
 </p>
 <br/>
